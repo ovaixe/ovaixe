@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhat Owais
-- 👀 I’m interested in Python and Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Python and Backend Development
+- 🌱 I’m currently learning Backend Development
+- 💞️ I’m looking to collaborate on Backend Development Projects
 - 📫 How to reach me 
 
 <!---
