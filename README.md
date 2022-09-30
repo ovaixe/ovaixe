@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Backend Development
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Backend Projects
-- 📫 How to reach me https://ovaixe.github.io/
+- 📫 https://ovaixe.github.io/
 
 <!---
 ovaixe/ovaixe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
