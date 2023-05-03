@@ -1,5 +1,5 @@
 - Hi 👋, I’m Bhat Owais
-- 👀 I’m interested in Python and Web Development
+- I’m interested 👀 in Python and Web Development
 - I’m currently learning Backend Development
 - I’m looking to collaborate 💞️ on Full-Stack Projects
 - 📫 https://ovaixe.github.io/
