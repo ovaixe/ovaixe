@@ -2,7 +2,7 @@
 - I’m interested 👀 in Python and Web Development
 - I’m currently learning Backend Development
 - I’m looking to collaborate 💞️ on Full-Stack Projects
-- 📫 https://ovaixe.github.io/
+- 📫 https://portfolio-owais.vercel.app/
 
 <!---
 ovaixe/ovaixe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
