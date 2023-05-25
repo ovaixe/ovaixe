@@ -15,7 +15,7 @@
 - 👨‍ All of my projects are available at [`ovaixe.vercel.app`](https://ovaixe.vercel.app) 💻 .
 - 💬 Ask me about **Web Development specially Backend.**
 - 📫 How to reach me owaisbhat996@outlook.com.
-- ⚡ Fun fact **I love cats.**
+- ⚡ Fun fact **I love playing football.**
 
 <!-- <a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a> -->
 
