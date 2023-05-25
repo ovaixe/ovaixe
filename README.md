@@ -38,9 +38,9 @@
   <a href="https://www.twitter.com/ovaixe/" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/ovaixe" target="_blank">
+<!--   <a href="https://instagram.com/ovaixe" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
 </div> 
 
 <br>
