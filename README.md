@@ -23,7 +23,7 @@
 ## Things I code with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,ts,nodejs,django,flask,express,nestjs,nextjs,react,tailwind,materialui,postgres,mysql,mongodb,redis,docker,aws,azure,git,github,bash,linux,vercel,vim" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,ts,nodejs,django,express,nestjs,nextjs,react,tailwind,materialui,postgres,mysql,mongodb,redis,docker,aws,azure,git,github,bash,linux,vercel,vim" />
   </a>
 </p>
 
