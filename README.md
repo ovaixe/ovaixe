@@ -20,7 +20,7 @@
 <!-- <a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a> -->
 
 
-## Things I code with
+## Tech Stack I work with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,ts,nodejs,django,express,nestjs,nextjs,react,tailwind,materialui,postgres,mysql,mongodb,redis,docker,aws,azure,git,github,bash,linux,vercel,vim" />
