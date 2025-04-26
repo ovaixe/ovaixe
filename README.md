@@ -15,7 +15,6 @@
 - 💬 Ask me about **Web Development specially Backend.**
 - 👨‍ Browse through my portfolio to discover more about me [`ovaixe.vercel.app`](https://ovaixe.vercel.app) 💻 .
 - 📫 How to reach me ovaixe@gmail.com.
-- ⚡ Fun fact **I love playing football.**
 
 <!-- <a id="raw-url" href="https://chrome.google.com/webstore/detail/codesyncer/cckfbmeiclkanjojbhblebmdlkibjnkl?hl=en">Download CodeSyncer Chrome Extension</a> -->
 
